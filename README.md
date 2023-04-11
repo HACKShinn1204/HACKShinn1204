@@ -1,5 +1,6 @@
-### Hi there 👋
+### ぷりょすきっだー
 
+- たまにはコード書くぞ 😡
 <!--
 **HACKShinn1204/HACKShinn1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
